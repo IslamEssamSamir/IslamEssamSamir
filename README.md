@@ -1,8 +1,11 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Islam Essam Samir</h1>
 <h3 align="center">A .NET developer from Egypt</h3>
+<br>
+<br>
+
+
+
+
 <img  align="right" alt="coding ..." width="400" height="235" src="https://github.com/IslamEssamSamir/IslamEssamSamir/assets/104682652/ce39bc9a-85dc-4b52-878f-ea7430d89089">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamessamsamir&label=Profile%20views&color=0e75b6&style=flat" alt="islamessamsamir" /> </p>
 
@@ -14,7 +17,6 @@
 <a href="https://linkedin.com/in/islam-essam-84a268231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-essam-84a268231" height="30" width="40" /></a>
 <a href="https://fb.com/islamessamsamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="islamessamsamir" height="30" width="40" /></a>
 <a href="https://instagram.com/islamessamsamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islamessamsamir" height="30" width="40" /></a>
-<a href="https://discord.gg/964335106552659999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="964335106552659999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
